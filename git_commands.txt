@@ -1,0 +1,57 @@
+ls -l
+ls
+ls -l
+ls -
+ls
+git init
+git init
+ls
+git status
+git inti
+git init
+ls -a
+ls -l
+dir
+ls
+ls .a
+dir
+dir /a
+dir /h
+dir /
+dir /a:h
+dir /a:h
+Get-ChildItem -Force
+ls -Force
+git status
+git status
+git add testing.py
+git status
+git rm --cached
+git rm --cached testing.py
+git status
+git add testing.py
+git status
+git rm --cached .
+git rm --cached -r
+git rm --cached . -r
+git status
+git add .
+git status
+git commit -m "added testing files"
+git config --global user.email "deeppandat2022@gmail.com"
+git config --global user.name "pandat"
+git commit -m "added testing files"
+rm testing.py
+git status
+git restore testing.py
+cls
+git status
+git -r
+git -rm
+git -rm testing.py
+git add testing.py
+git statys
+cls
+git status
+rm testing.py
+git restore testing.py
